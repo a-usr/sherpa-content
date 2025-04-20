@@ -16,7 +16,7 @@ Tuttavia, il manuale non è privo di problemi. Non copre funzionalità "sperimen
 
 Esiste anche molta documentazione di terze parti, ma è spesso [obsoleta](https://nixos.wiki) o difficile da leggere per un nuovo utente.
 
-Sebbene noi del NUG siamo consapevoli del rischio di contribuire a una [proliferazione di standard](https://xkcd.com/927/), riteniamo di avere la capacità e la volontà di creare una documentazione che sia facile da usare, comoda da leggere e che copra tutte le aree di NixOS che gli utenti desiderebbero conoscere.
+Sebbene noi del SNUG siamo consapevoli del rischio di contribuire a una [proliferazione di standard](https://xkcd.com/927/), riteniamo di avere la capacità e la volontà di creare una documentazione che sia facile da usare, comoda da leggere e che copra tutte le aree di NixOS che gli utenti desiderebbero conoscere.
 
 Pertanto, siamo orgogliosi di presentarvi il nostro manual ufficiale: Sherpa.
 

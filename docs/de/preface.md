@@ -16,7 +16,7 @@ Doch auch das Handbuch ist nicht ohne Probleme. Es behandelt keine „experiment
 
 Es gibt zwar zahlreiche Dokumentationen von Drittanbietern, jedoch sind diese oft [veraltet](https://nixos.wiki) oder für neue Nutzer schwer verständlich.
 
-Obwohl wir von der NUG uns des Risikos bewusst sind, dass wir [die Standards wuchern lassen](https://xkcd.com/927/), sind wir der Meinung, dass wir die Fähigkeit und den Willen haben, eine NixOS-Dokumentation zu erstellen, die benutzerfreundlich, angenehm zu lesen ist und alle Bereiche von NixOS abdeckt, die der Nutzer erlernen möchte.
+Obwohl wir von der SNUG uns des Risikos bewusst sind, dass wir [die Standards wuchern lassen](https://xkcd.com/927/), sind wir der Meinung, dass wir die Fähigkeit und den Willen haben, eine NixOS-Dokumentation zu erstellen, die benutzerfreundlich, angenehm zu lesen ist und alle Bereiche von NixOS abdeckt, die der Nutzer erlernen möchte.
 
 Deshalb sind wir stolz, Ihnen unser offizielles Handbuch vorzustellen: Sherpa.
 

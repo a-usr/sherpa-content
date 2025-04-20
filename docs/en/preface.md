@@ -16,7 +16,7 @@ However, the manual is not without issues. It does not cover "experimental" feat
 
 Plenty of third party documentation also exists, however they may be [outdated](https://nixos.wiki) or difficult to read for a new user.
 
-Although we at the unnamed NUG realize we run the risk of [letting standards proliferate](https://xkcd.com/927/), we feel that we have the ability and the will to make NixOS documentation that is user friendly, comfortable to read, and covers all areas of NixOS users may wish to learn.
+Although we at SNUG realize we run the risk of [letting standards proliferate](https://xkcd.com/927/), we feel that we have the ability and the will to make NixOS documentation that is user friendly, comfortable to read, and covers all areas of NixOS users may wish to learn.
 
 Therefore, we are proud to introduce you to our official manual, Sherpa.
 
